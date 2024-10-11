@@ -1,6 +1,6 @@
 # Taller de JavaScript - Desarrollo de Aplicaciones Web
 
-Este repositorio contiene la solución a los ejercicios propuestos en el Taller de JavaScript del curso de Desarrollo de Aplicaciones Multiplataforma/Web, impartido por el profesor Carlos Basulto Pardo. Cada ejercicio aborda conceptos básicos y avanzados de programación en JavaScript, enfocándose en la gestión de datos, validación de formularios, y el manejo de errores.
+Este repositorio contiene la solución a los ejercicios propuestos en el Taller de JavaScript del curso de Desarrollo de Aplicaciones Web. Cada ejercicio aborda conceptos básicos y avanzados de programación en JavaScript, enfocándose en la gestión de datos, validación de formularios, y el manejo de errores.
 
 ## Contenido
 
@@ -17,9 +17,9 @@ Este repositorio contiene la solución a los ejercicios propuestos en el Taller 
 
 ## Instrucciones de Uso
 
-Para ejecutar los ejercicios, necesitarás tener instalado [XAMPP](https://www.apachefriends.org/index.html) y [Visual Studio Code](https://code.visualstudio.com/). Una vez que tengas estas herramientas, sigue los siguientes pasos:
+Para ejecutar los ejercicios, necesitarás tener instalado [XAMPP](https://www.apachefriends.org/index.html) y [Visual Studio Code](https://code.visualstudio.com/). Una vez que tengas estas herramientas:
 
-1. Clona este repositorio:
+  Clona este repositorio:
    ```bash
    (https://github.com/Javigarcilop/RA2_ejerciciosJavaScript.git)
    
