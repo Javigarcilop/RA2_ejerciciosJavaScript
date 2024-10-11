@@ -21,5 +21,6 @@ Para ejecutar los ejercicios, necesitarás tener instalado [XAMPP](https://www.a
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   (https://github.com/Javigarcilop/RA2_ejerciciosJavaScript.git)
+   
 
